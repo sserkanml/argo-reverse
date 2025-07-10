@@ -3,7 +3,7 @@ replicaCount: 1
 image:
   repository: serkannnaml/python-app
   tag: latest
-  pullPolicy: always
+  pullPolicy: Always
 
 service:
   type: ClusterIP
