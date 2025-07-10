@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  repository: serkannnaml/python-app
+  repository: docker.io/serkannnaml/python-app
   tag: latest
   pullPolicy: Always
 
