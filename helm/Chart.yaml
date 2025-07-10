@@ -1,0 +1,5 @@
+apiVersion: v2
+name: reverse-sync-demo
+description: A simple reverse sync demo app
+version: 0.1.0
+appVersion: "1.0"
